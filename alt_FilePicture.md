@@ -166,3 +166,5 @@ See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETE
 
 
 ### Todos
+
+<a href="https://gitlocalize.com/repo/6660/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/6660/whole_project/badge.svg" /> </a>
