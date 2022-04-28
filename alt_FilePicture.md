@@ -164,7 +164,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 
 See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETES.md)
 
-![Citadell] https://gitlocalize.com/repo/6660/whole_project/badge.svg
+![Citadell](https://gitlocalize.com/repo/6660/whole_project/badge.svg)
 ### Todos
 
 <a href="https://gitlocalize.com/repo/6660/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/6660/whole_project/badge.svg" /> </a>
