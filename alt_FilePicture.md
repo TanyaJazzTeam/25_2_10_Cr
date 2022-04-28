@@ -169,4 +169,4 @@ See [KUBERNETES.md](https://github.com/joemccann/dillinger/blob/master/KUBERNETE
 ![Citadell](https://gitlocalize.com/repo/6660/whole_project/badge.svg)
 ### Todos
 
-<a href="https://gitlocalize.com/repo/6660/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/6660/whole_project/badge.svg" /> </a>
+<a href="https://gitlocalize.com/repo/6660/es?utm_source=badge"> <img src="https://gitlocalize.com/repo/6660/es/badge.svg" /> </a>
