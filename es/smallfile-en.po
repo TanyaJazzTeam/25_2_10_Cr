@@ -24,7 +24,7 @@ msgstr "AMP Conf 2020"
 
 #: /views/partials/footer.j2:72
 msgid "AMP Contributor Summit 2019"
-msgstr ""
+msgstr "Cumbre de colaboradores de AMP 2019"
 
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
@@ -32,15 +32,15 @@ msgstr "AMP Contributor Summit 2019 Applications Now Open"
 
 #: /views/partials/footer.j2:43
 msgid "AMP Framework"
-msgstr ""
+msgstr "Marco AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
-msgstr ""
+msgstr "Especificación HTML de AMP"
 
 #: /content/amp-dev/support/faq/overview.md
 msgid "AMP Overview"
-msgstr ""
+msgstr "Descripción general de AMP"
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid "AMP for Email Specification"
